@@ -24,6 +24,15 @@
       "startDate": "2023-01-01",
       "endDate": "Pres.",
       "courses": ["Computational neuroscience","Image processing"]
+    },
+    {
+      "institution": "Michigan State University, Michigan, US",
+      "location": "Michigan, US",
+      "area": "Chemical Engineering",
+      "studyType": "B.S",
+      "startDate": "2018-08-01",
+      "endDate": "2022-05",
+      "courses": ["Concentration: Computer Science & Mathematics"]
     }
   ],
   "work": [

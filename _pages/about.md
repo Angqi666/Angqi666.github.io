@@ -12,7 +12,7 @@ profile:
   more_info: >
     <p>RM 2506</p>
     <p>Engineering Building, 428 S Shaw Ln</p>
-    <p> East Lansing, MI 48824</p>
+    <p>East Lansing, MI 48824</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
